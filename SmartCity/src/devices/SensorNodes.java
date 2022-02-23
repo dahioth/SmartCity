@@ -20,8 +20,7 @@ public class SensorNodes {
   public void setTemperatureSensor(String temperatureSensor) {
     this.temperatureSensor = temperatureSensor;
   }
-  
-  //comment
+  // test
 
   public String getMicroController() {
     return this.microController;
